@@ -1,9 +1,13 @@
-baris ke 1
+error
 
-baris ke 2
+error
 
-baris ke 3
+error
 
-baris ke 4
+error
 
-AKHIR BARIS
+error
+
+error
+
+error
