@@ -1,4 +1,4 @@
-baris ke 1
+baris pertama
 
 baris ke 2
 
